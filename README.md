@@ -1,20 +1,20 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+<!-- {Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.} -->
 
-{Provide a description of your software}
+This software says to the user Hello World.
 
-{Describe your purpose for creating this software.}
+I created this software to add somethihng to my portfolio.
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Hello World](https://somup.com/c0QDFQAP5g)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used visual studio code to develop this software.
 
-{Describe the programming language that you used}
+I used python as it has been a long time since I have used it. Wnated to make sure I could still do it on my device.
 
 # Useful Websites
 
